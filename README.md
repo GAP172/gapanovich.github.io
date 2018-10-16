@@ -1,2 +1,2 @@
 # gapanovich.github.io
-Хочтинг
+Хостинг
